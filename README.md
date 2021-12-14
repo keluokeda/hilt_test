@@ -1,6 +1,6 @@
 # hilt_test
 ## 检查自己是否掌握了Hilt的使用方法
-完成一下目标
+完成以下目标
 - 把**StringUtil**变为单例，即每次注入的都是同一个对象，不需要反复创建对象
 - 注入**StringUtil**到**QQLoginService**、**WechatLoginService**、**MainViewModel**和**MainActivity**中
 - 注入类型为**Application**的**context**到**QQLoginService**中，注入类型为**Activity**的**context**到**WechatLoginService**中
