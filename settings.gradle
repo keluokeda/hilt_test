@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "hilt_test"
 include ':app'
+include ':wechat'
